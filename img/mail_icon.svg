@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <g id="mail_icon" transform="translate(0 -0.218)" opacity="0.8">
+    <g id="Group_2" data-name="Group 2">
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="13" cy="13" r="13" transform="translate(0 0.218)" fill="#a5a5a5"/>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(13.241 5.311)">
+      <g id="Group_3" data-name="Group 3">
+        <path id="Path_19" data-name="Path 19" d="M64,28" transform="translate(-64 -28)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_7" data-name="Group 7" transform="translate(4.965 7.587)">
+      <g id="Group_5" data-name="Group 5" transform="translate(0.372)">
+        <path id="Path_20" data-name="Path 20" d="M33.7,45.91l7.9-6.765A.849.849,0,0,0,41.151,39h-14.9a.849.849,0,0,0-.455.145Z" transform="translate(-25.8 -39)" fill="#010101"/>
+      </g>
+      <g id="Group_6" data-name="Group 6" transform="translate(0 0.91)">
+        <path id="Path_21" data-name="Path 21" d="M32.814,50.02a.818.818,0,0,1-1.076,0L24,43.421v8.586a.83.83,0,0,0,.828.828h14.9a.83.83,0,0,0,.828-.828V43.4Z" transform="translate(-24 -43.4)" fill="#010101"/>
+      </g>
+    </g>
+  </g>
+</svg>
